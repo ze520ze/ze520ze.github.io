@@ -227,25 +227,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ze520ze.github.io/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ze520ze.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -263,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/life/games/index.html</loc>
+    <loc>https://ze520ze.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -272,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/life/movies/index.html</loc>
+    <loc>https://ze520ze.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -290,7 +272,25 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/life/music/index.html</loc>
+    <loc>https://ze520ze.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ze520ze.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ze520ze.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/personal/bb/index.html</loc>
+    <loc>https://ze520ze.github.io/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -379,13 +379,6 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/tags/%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ze520ze.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -407,6 +400,13 @@
   </url>
   
   <url>
+    <loc>https://ze520ze.github.io/tags/%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ze520ze.github.io/tags/AI/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,14 +421,14 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
+    <loc>https://ze520ze.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <loc>https://ze520ze.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -528,13 +528,6 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ze520ze.github.io/categories/hexo/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -542,7 +535,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/</loc>
+    <loc>https://ze520ze.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -556,14 +549,14 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/AI/</loc>
+    <loc>https://ze520ze.github.io/categories/hexo/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/hexo/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://ze520ze.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -591,7 +584,21 @@
   </url>
   
   <url>
+    <loc>https://ze520ze.github.io/categories/AI/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ze520ze.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ze520ze.github.io/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -605,7 +612,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <loc>https://ze520ze.github.io/categories/%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -626,21 +633,7 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ze520ze.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ze520ze.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -661,13 +654,6 @@
   </url>
   
   <url>
-    <loc>https://ze520ze.github.io/categories/%E5%AD%A6%E4%B9%A0/%E9%AC%BC%E7%95%9C/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ze520ze.github.io/categories/%E7%AC%94%E8%AE%B0/%E4%B8%AA%E4%BA%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -676,6 +662,20 @@
   
   <url>
     <loc>https://ze520ze.github.io/categories/%E7%AC%94%E8%AE%B0/%E4%B8%AA%E4%BA%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E5%85%B4%E8%B6%A3/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ze520ze.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ze520ze.github.io/categories/%E5%AD%A6%E4%B9%A0/%E9%AC%BC%E7%95%9C/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
