@@ -35,32 +35,9 @@
     <category term="嵌入式" scheme="https://ze520ze.github.io/categories/%E5%8D%95%E7%89%87%E6%9C%BA/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
     
-    <category term="嵌入式" scheme="https://ze520ze.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
     <category term="单片机" scheme="https://ze520ze.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://ze520ze.github.io/posts/0.html"/>
-    <id>https://ze520ze.github.io/posts/0.html</id>
-    <published>2023-09-22T08:19:14.308Z</published>
-    <updated>2024-02-14T07:25:32.936Z</updated>
-    
-    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h2 id="软件设计师（软考）">软件设计师（软考）</h2><p><a href="https://note.youdao.com/s/EUGeGoyJ">上午题</a></p><p><a href="https://note.youdao.com/s/Ax1C8MeJ">下午题</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;相遇皆是缘分&lt;/p&gt;
-&lt;h2 id=&quot;软件设计师（软考）&quot;&gt;软件设计师（软考）&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://note.youdao.com/s/EUGeGoyJ&quot;&gt;上午题&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://note.youdao.</summary>
-      
-    
-    
-    
+    <category term="嵌入式" scheme="https://ze520ze.github.io/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
   </entry>
   
@@ -432,7 +409,7 @@
     <link href="https://ze520ze.github.io/posts/3.html"/>
     <id>https://ze520ze.github.io/posts/3.html</id>
     <published>2021-06-21T08:00:00.000Z</published>
-    <updated>2023-08-28T00:41:05.530Z</updated>
+    <updated>2024-02-20T15:32:13.801Z</updated>
     
     <content type="html"><![CDATA[<p>相遇皆是缘分</p><h1>Markdown 的快速入门(后缀是  .md)</h1><h2 id="快捷键">快捷键</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ctrl+shift+1 大纲显示</span><br><span class="line">ctrl+/ 源代码显示</span><br></pre></td></tr></table></figure><h2 id="代码块：">代码块：</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">​```java(html等等)   会自动提示</span><br></pre></td></tr></table></figure><h2 id="标题">标题</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#标题1 （大）</span><br><span class="line">##标题2</span><br><span class="line">###标题3</span><br><span class="line">####标题4 （小）</span><br><span class="line">以此类推 最高标题6</span><br></pre></td></tr></table></figure><h2 id="加粗">加粗</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//加粗</span></span><br><span class="line">**加粗**</span><br><span class="line"><span class="comment">//代码高亮显示</span></span><br><span class="line">==高亮==</span><br><span class="line"><span class="comment">//删除线</span></span><br><span class="line">~~删除线~~</span><br><span class="line"><span class="comment">//斜体</span></span><br><span class="line">  *斜体内容*</span><br></pre></td></tr></table></figure><h2 id="引用：">引用：</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//引用语法</span></span><br><span class="line">&gt;作者：泽</span><br><span class="line">&gt;&gt;作者：泽</span><br><span class="line">&gt;&gt;&gt;作者：泽</span><br></pre></td></tr></table></figure><blockquote><p>作者：泽</p><blockquote><p>作者：泽</p><blockquote><p>作者：泽</p></blockquote></blockquote></blockquote><h2 id="分割线">分割线</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//分割线</span></span><br><span class="line">---</span><br><span class="line">***</span><br></pre></td></tr></table></figure><h2 id="图片插入">图片插入</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//在线图片与本地图片</span></span><br><span class="line">![照片名子]（/image/me.png）</span><br></pre></td></tr></table></figure><p><img src="https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3252521864,872614242&amp;fm=26&amp;gp=0.jpg" alt="img"></p><h2 id="超链接">超链接</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//超链接语法</span></span><br><span class="line">[超链接名字]（https:<span class="comment">//gihub.com/yerenping）</span></span><br></pre></td></tr></table></figure><p><a href="https://music.163.com/#/song?id=28892408&amp;market=baiduqk">我的天空</a></p><h2 id="列表">列表</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//无需列表</span></span><br><span class="line">- 目录<span class="number">1</span>  -后加空格</span><br><span class="line">- 目录<span class="number">2</span></span><br><span class="line">- 目录<span class="number">3</span></span><br><span class="line"><span class="comment">//有序列表</span></span><br><span class="line">  <span class="number">1</span>+. +名称</span><br></pre></td></tr></table></figure><h2 id="表格">表格</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">右键》插入》表格</span><br><span class="line">用代码过于复杂不推荐使用</span><br></pre></td></tr></table></figure><table><thead><tr><th style="text-align:center">姓名</th><th style="text-align:center">数字</th><th style="text-align:center">语文</th></tr></thead><tbody><tr><td style="text-align:center">小王</td><td style="text-align:center">85</td><td style="text-align:center">21</td></tr><tr><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td></tr><tr><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td></tr></tbody></table>]]></content>
     
@@ -501,6 +478,27 @@
     <category term="游戏" scheme="https://ze520ze.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
     
     <category term="深度学习" scheme="https://ze520ze.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客与博主</title>
+    <link href="https://ze520ze.github.io/posts/1.html"/>
+    <id>https://ze520ze.github.io/posts/1.html</id>
+    <published>2021-05-27T13:00:00.000Z</published>
+    <updated>2024-02-20T14:56:01.643Z</updated>
+    
+    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？">为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客">展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"> 《自由与爱情》---作者:裴多菲</span><br><span class="line">​ 生命诚可贵</span><br><span class="line">​ 爱情价更高</span><br><span class="line">​ 若为自由故</span><br><span class="line">​ 二者皆可抛</span><br></pre></td></tr></table></figure><p>溜溜球啦！</p>]]></content>
+    
+    
+    <summary type="html">博客的创建</summary>
+    
+    
+    
+    <category term="生活" scheme="https://ze520ze.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="想法" scheme="https://ze520ze.github.io/tags/%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
